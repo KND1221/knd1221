@@ -78,35 +78,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2"/>
 
-<h2>📊 GitHub Stats</h2>
-
-<img src="https://streak-stats.demolab.com/?user=KND1221&theme=tokyonight&hide_border=true" alt="Streak stats"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2"/>
-
-<h2>🚀 Featured Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>Project Name 1</h4>
-      <p>Brief description — e.g. help desk system with roles and notifications.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-    </td>
-    <td width="50%">
-      <h4>Project Name 2</h4>
-      <p>Brief description — e.g. certificate verification platform.</p>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    </td>
-  </tr>
-</table>
-
-<sub>Replace this table with your real repos (name, short description, stack).</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2"/>
-
 <h2>💼 Experience</h2>
 <p>
   🟠 <strong>RedOrange</strong> — current<br/>
