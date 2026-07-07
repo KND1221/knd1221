@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:FF8C00,100:FF4500&height=300&section=header&text=Aldahir Ubilluz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems+Engineer+%C2%B7+Full+Stack+Developer+%E2%80%94+Frontend+first&descAlignY=58&descSize=24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:FF8C00,100:FF4500&height=300&section=header&text=Aldahir%20Ubilluz&fontSize=48&fontColor=ffffff&desc=Systems%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%E2%80%94%20Frontend%20first"/>
 
 <p style="max-width:600px; margin: auto;">
   🔧 Building & deploying government systems in Peru 🇵🇪<br/>
