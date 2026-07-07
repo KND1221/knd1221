@@ -3,22 +3,39 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:FF8C00,100:FF4500&height=300&section=header&text=Aldahir Ubilluz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems+Engineer+%C2%B7+Full+Stack+Developer+%E2%80%94+Frontend+first&descAlignY=58&descSize=24"/>
 
 <p style="max-width:600px; margin: auto;">
-  I build and deploy government systems in Peru. Specialized in frontend with Next.js, but comfortable across the stack. Exploring 3D development with Unreal Engine.
+  🔧 Building & deploying government systems in Peru 🇵🇪<br/>
+  🎨 Frontend specialist with Next.js<br/>
+  🚀 Exploring 3D development with Unreal Engine
 </p>
 
 <br/>
 
-<a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://tu-portafolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<p>
+  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://tu-portafolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
 
-<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=KND1221&label=Profile+views&color=2C5364&style=flat" alt="Profile views"/>
 
 <br/>
-<br/>
+
+---
+
+🔱 **Tech I work with daily**
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KND1221/KND1221/output/github-contribution-grid-snake-dark.svg" />
