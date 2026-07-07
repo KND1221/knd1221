@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:FF8C00,100:FF4500&height=200&section=header&text=Aldahir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems+Engineer+%C2%B7+Full+Stack+Developer+%E2%80%94+Frontend+first&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:FF8C00,100:FF4500&height=300&section=header&text=Aldahir Ubilluz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems+Engineer+%C2%B7+Full+Stack+Developer+%E2%80%94+Frontend+first&descAlignY=58&descSize=24"/>
 
 <p style="max-width:600px; margin: auto;">
   I build and deploy government systems in Peru. Specialized in frontend with Next.js, but comfortable across the stack. Exploring 3D development with Unreal Engine.
