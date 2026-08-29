@@ -11,6 +11,9 @@ on:
 permissions:
   contents: write
 
+env:
+  ACTIONS_STEP_DEBUG: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
